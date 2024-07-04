@@ -28,11 +28,11 @@ sudo apt update && sudo apt upgrade -y && sudo apt install python3 git ffmpeg -y
 ```
 
 ```sh
-git clone https://github.com/EnhancedProtection/YMusic-Userbot.git
+git clone https://github.com/aileenxmods/y-music-tgbot.git
 ```
 
 ```sh
-cd YMusic-Userbot && pip install -r requirements.txt
+cd y-music-tgbot && pip install -r requirements.txt
 ```
 
 ### Fill the required data in "config/config.py" file
